@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="material_green_50">#E8F5E9</color>
+    <color name="material_green_500">#4CAF50</color>
+    <color name="material_green_700">#388E3C</color>
+    <color name="material_green_a200">#69F0AE</color>
+    <color name="material_lime_a700">#AEEA00</color>
+    <color name="material_purple_a700">#973BC5</color>
+    <color name="intro_color">#575652</color>
+    <color name="background">#7B7D83</color>
+    <color name="backgroundup">#A3B9EE</color>
+    <color name="currnet_color">#3B718B</color>
+    <color name="text_color">#000000</color>
+    <color name="button_background">#072BF1</color>
+
+</resources>
